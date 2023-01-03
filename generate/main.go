@@ -37,9 +37,10 @@ func main() {
 }
 
 func renderReadmeToWriter(readmeData *ReadmeData, writer io.Writer) error {
-	readmeTemplate := template.Must(
-		template.New("").Parse(readmeTemplate),
-	)
+	template, err := template.New("").Parse(readmeTemplate)
+	if err != nil {
+		return err
+	}
 
-	return readmeTemplate.ExecuteTemplate(writer, "", readmeData)
+	return template.ExecuteTemplate(writer, "", readmeData)
 }
