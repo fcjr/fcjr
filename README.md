@@ -6,6 +6,10 @@ I'll be attending the Summer 2 batch of [Recurse Center](https://github.com/recu
 
 You can find more information about me and my work on my [personal website](https://frankchiarulli.com) or connect with me on [Twitter](https://twitter.com/_fcjr). You can find my other social media profiles on [keybase](https://keybase.io/fcjr).
 
+📝 **Latest blog post:** [Quitting Comfort: I'm attending Recurse](https://frankchiarulli.com/blog/attending-recurse/)
+
+
+
 ---
 
-This `README.md` is regenerated every hour via [this GitHub Action](https://github.com/fcjr/fcjr/blob/master/.github/workflows/ci.yml) with the intent to automatically generate content.
+This `README.md` is regenerated every hour via [this GitHub Action](https://github.com/fcjr/fcjr/blob/master/.github/workflows/ci.yml).

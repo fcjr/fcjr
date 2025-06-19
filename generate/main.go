@@ -5,14 +5,24 @@ import (
 	"io"
 	"os"
 	"text/template"
+	"context"
+	"time"
 
+	"github.com/mmcdole/gofeed"
 	_ "embed"
 )
 
 //go:embed README.md.tmpl
 var readmeTemplate string
 
-type ReadmeData struct{}
+type ReadmeData struct{
+	LatestBlogPost *BlogPost
+}
+
+type BlogPost struct {
+	Title string
+	URL   string
+}
 
 func main() {
 
@@ -28,7 +38,9 @@ func main() {
 	}
 	defer outFile.Close()
 
-	var readmeData ReadmeData
+	readmeData := ReadmeData{
+		LatestBlogPost: getLatestBlogPost(),
+	}
 
 	err = renderReadmeToWriter(&readmeData, outFile)
 	if err != nil {
@@ -43,4 +55,27 @@ func renderReadmeToWriter(readmeData *ReadmeData, writer io.Writer) error {
 	}
 
 	return template.ExecuteTemplate(writer, "", readmeData)
+}
+
+func getLatestBlogPost() *BlogPost {
+	fp := gofeed.NewParser()
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
+	
+	feed, err := fp.ParseURLWithContext("https://frankchiarulli.com/blog/rss.xml", ctx)
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Warning: Failed to fetch blog RSS feed: %v\n", err)
+		return nil
+	}
+	
+	if len(feed.Items) == 0 {
+		fmt.Fprintf(os.Stderr, "Warning: No blog posts found in RSS feed\n")
+		return nil
+	}
+	
+	latest := feed.Items[0]
+	return &BlogPost{
+		Title: latest.Title,
+		URL:   latest.Link,
+	}
 }
