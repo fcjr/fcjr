@@ -16,7 +16,7 @@ jobs:
       - name: Install Go
         uses: actions/setup-go@v5
         with:
-          go-version-file: './generage/go.mod'
+          go-version-file: './generate/go.mod'
 
       - name: Checkout
         uses: actions/checkout@v4
