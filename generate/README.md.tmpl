@@ -12,4 +12,4 @@ You can find more information about me and my work on my [personal website](http
 
 ---
 
-This `README.md` is regenerated every hour via [this GitHub Action](https://github.com/fcjr/fcjr/blob/master/.github/workflows/ci.yml).
+This `README.md` is regenerated every hour via [this GitHub Action](https://github.com/fcjr/fcjr/blob/main/.github/workflows/ci.yml).
