@@ -6,7 +6,7 @@ I'm currently attending the ~~Summer 2~~ Fall 2 batch of [Recurse Center](https:
 
 You can find more information about me and my work on my [personal website](https://frankchiarulli.com) or connect with me on [Twitter](https://twitter.com/_fcjr). You can find my other social media profiles on [Keyoxide](https://keyoxide.org/aspe:keyoxide.org:B7XY6WYUVDPUUVFTGGLC32BVYM).
 
-📝 **Latest blog post:** [SMLL: Using 200MB of Neural Network to Save 400 Bytes](https://frankchiarulli.com/blog/smll/)
+📝 **Latest blog post:** [ShiftAPI: Full-Stack Type Safety from Go](https://frankchiarulli.com/blog/shiftapi/)
 
 
 #### Recent Projects
