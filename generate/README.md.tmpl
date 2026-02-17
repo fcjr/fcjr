@@ -8,8 +8,12 @@ You can find more information about me and my work on my [personal website](http
 
 {{if .LatestBlogPost}}📝 **Latest blog post:** [{{.LatestBlogPost.Title}}]({{.LatestBlogPost.URL}})
 
-{{end}}
-
+{{end}}{{if .RecentRepos}}
+#### Recent Projects
+| Repo | Description |
+| --- | --- |
+{{range .RecentRepos}}| [{{.Name}}]({{.URL}}) | {{.Description}} |
+{{end}}{{end}}
 ---
 
 This `README.md` is regenerated every hour via [this GitHub Action](https://github.com/fcjr/fcjr/blob/main/.github/workflows/ci.yml).
