@@ -133,8 +133,9 @@ func getRecentRepos(username string, count int) ([]Repo, error) {
 	}
 
 	ignore := map[string]bool{
-		"homebrew-fcjr":       true,
-		"frankchiarulli.com":  true,
+		"homebrew-fcjr":      true,
+		"frankchiarulli.com": true,
+		"fcjr":               true,
 	}
 
 	var repos []Repo
