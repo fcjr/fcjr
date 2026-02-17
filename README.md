@@ -9,6 +9,14 @@ You can find more information about me and my work on my [personal website](http
 📝 **Latest blog post:** [SMLL: Using 200MB of Neural Network to Save 400 Bytes](https://frankchiarulli.com/blog/smll/)
 
 
+#### Recent Projects
+| Repo | Description |
+| --- | --- |
+| [local-translate](https://github.com/fcjr/local-translate) | Privacy-first, offline desktop translation app for macOS. |
+| [shiftapi](https://github.com/fcjr/shiftapi) | Quickly write RESTful APIs in go with automatic openapi schema generation, and e2e type safety. |
+| [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
+| [geticon](https://github.com/fcjr/geticon) | A tiny cross-platform library to get app icons of other applications. |
+| [nix](https://github.com/fcjr/nix) | a macOS config via nix |
 
 ---
 
