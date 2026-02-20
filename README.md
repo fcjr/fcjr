@@ -12,8 +12,8 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
-| [mdm-urls](https://github.com/fcjr/mdm-urls) | A public registry of known MDM (Mobile Device Management) server URL patterns. |
 | [shiftapi](https://github.com/fcjr/shiftapi) | Full-stack type-safety from go to typescript with OpenAPI schema generation out of the box. |
+| [mdm-urls](https://github.com/fcjr/mdm-urls) | A public registry of known MDM (Mobile Device Management) server URL patterns. |
 | [nix](https://github.com/fcjr/nix) | a macOS config via nix |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [local-translate](https://github.com/fcjr/local-translate) | Privacy-first, offline desktop translation app for macOS. |
