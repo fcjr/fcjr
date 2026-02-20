@@ -12,8 +12,8 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
-| [nix](https://github.com/fcjr/nix) | a macOS config via nix |
 | [shiftapi](https://github.com/fcjr/shiftapi) | Full-stack type-safety from go to typescript with OpenAPI schema generation out of the box. |
+| [nix](https://github.com/fcjr/nix) | a macOS config via nix |
 | [local-translate](https://github.com/fcjr/local-translate) | Privacy-first, offline desktop translation app for macOS. |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [geticon](https://github.com/fcjr/geticon) | A tiny cross-platform library to get app icons of other applications. |
