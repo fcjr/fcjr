@@ -6,17 +6,17 @@ I'm currently attending the ~~Summer 2~~ Fall 2 batch of [Recurse Center](https:
 
 You can find more information about me and my work on my [personal website](https://frankchiarulli.com) or connect with me on [Twitter](https://twitter.com/_fcjr). You can find my other social media profiles on [Keyoxide](https://keyoxide.org/aspe:keyoxide.org:B7XY6WYUVDPUUVFTGGLC32BVYM).
 
-📝 **Latest blog post:** [ShiftAPI: Full-Stack Type Safety from Go](https://frankchiarulli.com/blog/shiftapi/)
+📝 **Latest blog post:** [I Shipped a Native macOS App in a Day](https://frankchiarulli.com/blog/vibe-shift/)
 
 
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [local-translate](https://github.com/fcjr/local-translate) | Privacy-first, offline desktop translation app for macOS. |
 | [shiftapi](https://github.com/fcjr/shiftapi) | Full-stack type-safety from go to typescript with OpenAPI schema generation out of the box. |
 | [nix](https://github.com/fcjr/nix) | a macOS config via nix |
 | [mdm-urls](https://github.com/fcjr/mdm-urls) | A public registry of known MDM (Mobile Device Management) server URL patterns. |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
-| [local-translate](https://github.com/fcjr/local-translate) | Privacy-first, offline desktop translation app for macOS. |
 
 ---
 
