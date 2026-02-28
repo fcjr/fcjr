@@ -12,11 +12,11 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [pair](https://github.com/fcjr/pair) | Keep claude code's context in sync while editing files |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [shiftapi](https://github.com/fcjr/shiftapi) | Full-stack type-safety from go to typescript with OpenAPI schema generation out of the box. |
 | [local-translate](https://github.com/fcjr/local-translate) | Privacy-first, offline desktop translation app for macOS. |
 | [nix](https://github.com/fcjr/nix) | a macOS config via nix |
-| [mdm-urls](https://github.com/fcjr/mdm-urls) | A public registry of known MDM (Mobile Device Management) server URL patterns. |
 
 ---
 
