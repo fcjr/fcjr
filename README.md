@@ -13,9 +13,9 @@ You can find more information about me and my work on my [personal website](http
 | Repo | Description |
 | --- | --- |
 | [shiftapi](https://github.com/fcjr/shiftapi) | Full-stack type-safety from go to typescript with OpenAPI schema generation out of the box. |
+| [local-translate](https://github.com/fcjr/local-translate) | Privacy-first, offline desktop translation app for macOS. |
 | [pair](https://github.com/fcjr/pair) | Keep claude code's context in sync while editing files |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
-| [local-translate](https://github.com/fcjr/local-translate) | Privacy-first, offline desktop translation app for macOS. |
 | [nix](https://github.com/fcjr/nix) | a macOS config via nix |
 
 ---
