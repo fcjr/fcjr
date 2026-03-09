@@ -13,10 +13,10 @@ You can find more information about me and my work on my [personal website](http
 | Repo | Description |
 | --- | --- |
 | [shiftapi](https://github.com/fcjr/shiftapi) | Full-stack type-safety from go to typescript with OpenAPI schema generation out of the box. |
+| [geticon](https://github.com/fcjr/geticon) | A tiny cross-platform library to get app icons of other applications. |
 | [nix](https://github.com/fcjr/nix) | a macOS config via nix |
 | [ltts](https://github.com/fcjr/ltts) | Quick CLI for local text-to-speech using Qwen3-TTS or Kokoro TTS. |
 | [local-translate](https://github.com/fcjr/local-translate) | Privacy-first, offline desktop translation app for macOS. |
-| [pair](https://github.com/fcjr/pair) | Keep claude code's context in sync while editing files |
 
 ---
 
