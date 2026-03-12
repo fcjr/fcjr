@@ -12,9 +12,9 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [shiftapi](https://github.com/fcjr/shiftapi) | Full-stack type-safety from go to typescript with OpenAPI schema generation out of the box. |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [smll](https://github.com/fcjr/smll) | Near optimal compression with LLMs |
-| [shiftapi](https://github.com/fcjr/shiftapi) | Full-stack type-safety from go to typescript with OpenAPI schema generation out of the box. |
 | [geticon](https://github.com/fcjr/geticon) | A tiny cross-platform library to get app icons of other applications. |
 | [nix](https://github.com/fcjr/nix) | a macOS config via nix |
 
