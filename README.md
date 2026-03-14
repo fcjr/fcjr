@@ -12,8 +12,8 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
-| [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [shiftapi](https://github.com/fcjr/shiftapi) | Full-stack type-safety from go to typescript with OpenAPI schema generation out of the box. |
+| [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [ltts](https://github.com/fcjr/ltts) | Quick CLI for local text-to-speech using Qwen3-TTS or Kokoro TTS. |
 | [smll](https://github.com/fcjr/smll) | Near optimal compression with LLMs |
 | [geticon](https://github.com/fcjr/geticon) | A tiny cross-platform library to get app icons of other applications. |
