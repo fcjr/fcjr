@@ -12,11 +12,11 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [smll](https://github.com/fcjr/smll) | Near optimal compression with LLMs |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [nix](https://github.com/fcjr/nix) | a macOS config via nix |
 | [local-translate](https://github.com/fcjr/local-translate) | Privacy-first, offline desktop translation app for macOS. |
 | [pair](https://github.com/fcjr/pair) | Keep claude code's context in sync while editing files |
-| [geticon](https://github.com/fcjr/geticon) | A tiny cross-platform library to get app icons of other applications. |
 
 ---
 
