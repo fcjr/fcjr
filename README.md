@@ -12,11 +12,11 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [ltts](https://github.com/fcjr/ltts) | Quick CLI for local text-to-speech using Qwen3-TTS or Kokoro TTS. |
 | [geticon](https://github.com/fcjr/geticon) | A tiny cross-platform library to get app icons of other applications. |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [sprout](https://github.com/fcjr/sprout) | 🌱 Sprout - grow ISOs from docker compose files |
 | [local-translate](https://github.com/fcjr/local-translate) | Privacy-first, offline desktop translation app for macOS. |
-| [smll](https://github.com/fcjr/smll) | Near optimal compression with LLMs |
 
 ---
 
