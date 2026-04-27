@@ -15,8 +15,8 @@ You can find more information about me and my work on my [personal website](http
 | [sprout](https://github.com/fcjr/sprout) | 🌱 Sprout - grow ISOs from docker compose files |
 | [local-translate](https://github.com/fcjr/local-translate) | Privacy-first, offline desktop translation app for macOS. |
 | [nix](https://github.com/fcjr/nix) | a macOS config via nix |
+| [madlibs](https://github.com/fcjr/madlibs) | one of the first c programs to run on a univac |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
-| [ltts](https://github.com/fcjr/ltts) | Quick CLI for local text-to-speech using Qwen3-TTS or Kokoro TTS. |
 
 ---
 
