@@ -12,9 +12,9 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [geticon](https://github.com/fcjr/geticon) | A tiny cross-platform library to get app icons of other applications. |
 | [local-translate](https://github.com/fcjr/local-translate) | Privacy-first, offline desktop translation app for macOS. |
-| [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [nix](https://github.com/fcjr/nix) | a macOS config via nix |
 | [sprout](https://github.com/fcjr/sprout) | 🌱 Sprout - grow ISOs from docker compose files |
 
