@@ -16,7 +16,7 @@ You can find more information about me and my work on my [personal website](http
 | [geticon](https://github.com/fcjr/geticon) | A tiny cross-platform library to get app icons of other applications. |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [local-translate](https://github.com/fcjr/local-translate) | Privacy-first, offline desktop translation app for macOS. |
-| [legal-trouble](https://github.com/fcjr/legal-trouble) | Legal Trouble |
+| [legal-trouble](https://github.com/fcjr/legal-trouble) | Legal Trouble - a bubble trouble clone for the RCade |
 
 ---
 
