@@ -12,10 +12,10 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [nix-pvm](https://github.com/fcjr/nix-pvm) | Prebuilt PVM host kernels for nix |
 | [pactester](https://github.com/fcjr/pactester) | A Pure JS implementation of pactester. |
 | [nix](https://github.com/fcjr/nix) | a macOS config via nix |
-| [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [legal-trouble](https://github.com/fcjr/legal-trouble) | Legal Trouble - a bubble trouble clone for the RCade |
 
 ---
