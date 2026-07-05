@@ -12,7 +12,7 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
-| [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon Mac with one command, on any platform. |
+| [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
 | [sprout](https://github.com/fcjr/sprout) | 🌱 Sprout - grow ISOs from docker compose files |
 | [unmetaportal](https://github.com/fcjr/unmetaportal) | Repurpose old meta/facebook portal devices |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
