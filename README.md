@@ -6,7 +6,7 @@ I'm currently attending the ~~Summer 2~~ Fall 2 batch of [Recurse Center](https:
 
 You can find more information about me and my work on my [personal website](https://frankchiarulli.com) or connect with me on [Twitter](https://twitter.com/_fcjr). You can find my other social media profiles on [Keyoxide](https://keyoxide.org/aspe:keyoxide.org:B7XY6WYUVDPUUVFTGGLC32BVYM).
 
-📝 **Latest blog post:** [Running a Virtual Machine on a Cloud Box That Can't Run Virtual Machines](https://frankchiarulli.com/blog/nix-pvm/)
+📝 **Latest blog post:** [Searching for the Best Silicone USB Cable](https://frankchiarulli.com/blog/best-silicone-usb-cable/)
 
 
 #### Recent Projects
