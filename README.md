@@ -12,6 +12,7 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [unmetaportal](https://github.com/fcjr/unmetaportal) | Repurpose old meta/facebook portal devices |
 | [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
 | [mdm-urls](https://github.com/fcjr/mdm-urls) | A public registry of known MDM (Mobile Device Management) server URL patterns. |
 | [nix](https://github.com/fcjr/nix) | a macOS config via nix |
