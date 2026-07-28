@@ -12,9 +12,9 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [ventoy-mac](https://github.com/fcjr/ventoy-mac) | Native macOS port of Ventoy2Disk |
 | [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
-| [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [unmetaportal](https://github.com/fcjr/unmetaportal) | Repurpose old meta/facebook portal devices |
 | [mdm-urls](https://github.com/fcjr/mdm-urls) | A public registry of known MDM (Mobile Device Management) server URL patterns. |
 
