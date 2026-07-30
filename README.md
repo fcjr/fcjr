@@ -12,10 +12,10 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
 | [gud-display-mac](https://github.com/fcjr/gud-display-mac) | A GUD Display Driver for macOS |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [ventoy-mac](https://github.com/fcjr/ventoy-mac) | Native macOS port of Ventoy2Disk |
-| [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
 | [unmetaportal](https://github.com/fcjr/unmetaportal) | Repurpose old meta/facebook portal devices |
 
 ---
