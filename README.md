@@ -16,7 +16,6 @@ You can find more information about me and my work on my [personal website](http
 | [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
 | [ventoy-mac](https://github.com/fcjr/ventoy-mac) | Native macOS port of Ventoy2Disk |
 | [cubie-a7z-case](https://github.com/fcjr/cubie-a7z-case) | Snap-fit case for the Radxa Cubie A7Z |
-| [hp-gec](https://github.com/fcjr/hp-gec) | Rebuilding the HP Graphics Enhancement Cartridge |
 
 ---
 
