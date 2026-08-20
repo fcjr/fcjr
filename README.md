@@ -12,9 +12,9 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [shiftapi](https://github.com/fcjr/shiftapi) | Full-stack type-safety from go to typescript with OpenAPI schema generation out of the box. |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
-| [ventoy-mac](https://github.com/fcjr/ventoy-mac) | Native macOS port of Ventoy2Disk |
 
 ---
 
