@@ -16,7 +16,6 @@ You can find more information about me and my work on my [personal website](http
 | [nix](https://github.com/fcjr/nix) | a macOS config via nix |
 | [good-first-issue](https://github.com/fcjr/good-first-issue) | A curated list of rocks. Beginner friendly — lots of good first issues. |
 | [shiftapi](https://github.com/fcjr/shiftapi) | Full-stack type-safety from go to typescript with OpenAPI schema generation out of the box. |
-| [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
 
 ---
 
