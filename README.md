@@ -12,8 +12,8 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
-| [surf](https://github.com/fcjr/surf) | control your mac with an apple tv remote |
 | [gud-display-mac](https://github.com/fcjr/gud-display-mac) | A GUD Display Driver for macOS |
+| [surf](https://github.com/fcjr/surf) | control your mac with an apple tv remote |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [nix](https://github.com/fcjr/nix) | a macOS config via nix |
 | [good-first-issue](https://github.com/fcjr/good-first-issue) | A curated list of rocks. Beginner friendly — lots of good first issues. |
