@@ -13,10 +13,10 @@ You can find more information about me and my work on my [personal website](http
 | Repo | Description |
 | --- | --- |
 | [gud-display-mac](https://github.com/fcjr/gud-display-mac) | A GUD Display Driver for macOS |
+| [gudlet](https://github.com/fcjr/gudlet) | Turn a Waveshare 1.69" LCD board into a tiny USB monitor. |
 | [surf](https://github.com/fcjr/surf) | control your mac with an apple tv remote |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [nix](https://github.com/fcjr/nix) | a macOS config via nix |
-| [good-first-issue](https://github.com/fcjr/good-first-issue) | A curated list of rocks. Beginner friendly — lots of good first issues. |
 
 ---
 
