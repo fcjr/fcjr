@@ -16,7 +16,6 @@ You can find more information about me and my work on my [personal website](http
 | [gudlet](https://github.com/fcjr/gudlet) | Turn a Waveshare 1.69" LCD board into a tiny USB monitor. |
 | [surf](https://github.com/fcjr/surf) | control your mac with an apple tv remote |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
-| [nix](https://github.com/fcjr/nix) | a macOS config via nix |
 
 ---
 
