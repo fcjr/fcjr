@@ -16,7 +16,6 @@ You can find more information about me and my work on my [personal website](http
 | [shiftapi](https://github.com/fcjr/shiftapi) | Full-stack type-safety from go to typescript with OpenAPI schema generation out of the box. |
 | [gud-display-mac](https://github.com/fcjr/gud-display-mac) | A GUD Display Driver for macOS |
 | [surf](https://github.com/fcjr/surf) | control your mac with an apple tv remote |
-| [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 
 ---
 
