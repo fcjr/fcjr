@@ -12,6 +12,7 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [gudlet](https://github.com/fcjr/gudlet) | Turn a Waveshare 1.69" LCD board into a tiny USB monitor. |
 | [shiftapi](https://github.com/fcjr/shiftapi) | Full-stack type-safety from go to typescript with OpenAPI schema generation out of the box. |
 | [gud-display-mac](https://github.com/fcjr/gud-display-mac) | A GUD Display Driver for macOS |
