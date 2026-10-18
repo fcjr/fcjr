@@ -16,7 +16,6 @@ You can find more information about me and my work on my [personal website](http
 | [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
 | [gudlet](https://github.com/fcjr/gudlet) | Turn a Waveshare 1.69" LCD board into a tiny USB monitor. |
-| [shiftapi](https://github.com/fcjr/shiftapi) | Full-stack type-safety from go to typescript with OpenAPI schema generation out of the box. |
 
 ---
 
