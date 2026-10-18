@@ -15,7 +15,6 @@ You can find more information about me and my work on my [personal website](http
 | [ch32-pico](https://github.com/fcjr/ch32-pico) | ch32 > rpi2040 |
 | [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
 | [RCade](https://github.com/fcjr/RCade) | Recurse Center's RCade |
-| [gudlet](https://github.com/fcjr/gudlet) | Turn a Waveshare 1.69" LCD board into a tiny USB monitor. |
 
 ---
 
