@@ -12,6 +12,7 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [py-rs](https://github.com/fcjr/py-rs) | an experimental python, written in rust, with no gil, full ABI compatibility, jit, and a goal to beat cpython on beat it on all benchmarks. |
 | [ventoy-mac](https://github.com/fcjr/ventoy-mac) | Native macOS port of Ventoy2Disk |
 | [cubie-a7z-case](https://github.com/fcjr/cubie-a7z-case) | Snap-fit case for the Radxa Cubie A7Z |
 | [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
