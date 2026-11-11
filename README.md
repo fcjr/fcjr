@@ -12,11 +12,11 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
+| [PermissionGuide](https://github.com/fcjr/PermissionGuide) | Guided permission setup for macOS apps: opens the right System Settings pane, highlights the list, and gives the user your app's icon to drag in. |
+| [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
 | [dk-link](https://github.com/fcjr/dk-link) | Use an Azure Kinect DK on a Mac |
 | [py-rs](https://github.com/fcjr/py-rs) | an experimental python, written in rust, with no gil, full ABI compatibility, jit, and a goal to beat cpython on beat it on all benchmarks. |
 | [ventoy-mac](https://github.com/fcjr/ventoy-mac) | Native macOS port of Ventoy2Disk |
-| [cubie-a7z-case](https://github.com/fcjr/cubie-a7z-case) | Snap-fit case for the Radxa Cubie A7Z |
-| [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
 
 ---
 
