@@ -6,17 +6,17 @@ I'm currently attending the ~~Summer 2~~ Fall 2 batch of [Recurse Center](https:
 
 You can find more information about me and my work on my [personal website](https://frankchiarulli.com) or connect with me on [Twitter](https://twitter.com/_fcjr). You can find my other social media profiles on [Keyoxide](https://keyoxide.org/aspe:keyoxide.org:B7XY6WYUVDPUUVFTGGLC32BVYM).
 
-📝 **Latest blog post:** [Searching for the Best Silicone USB Cable](https://frankchiarulli.com/blog/best-silicone-usb-cable/)
+📝 **Latest blog post:** [Splitting USB-C: USB 3 and USB 2 on One Port](https://frankchiarulli.com/blog/splitting-usb-c/)
 
 
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
 | [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
+| [cubie-a7z-case](https://github.com/fcjr/cubie-a7z-case) | Snap-fit case for the Radxa Cubie A7Z |
 | [PermissionGuide](https://github.com/fcjr/PermissionGuide) | Guided permission setup for macOS apps: opens the right System Settings pane, highlights the list, and gives the user your app's icon to drag in. |
 | [dk-link](https://github.com/fcjr/dk-link) | Use an Azure Kinect DK on a Mac |
 | [py-rs](https://github.com/fcjr/py-rs) | an experimental python, written in rust, with no gil, full ABI compatibility, jit, and a goal to beat cpython on beat it on all benchmarks. |
-| [ventoy-mac](https://github.com/fcjr/ventoy-mac) | Native macOS port of Ventoy2Disk |
 
 ---
 
