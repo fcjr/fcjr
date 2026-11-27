@@ -12,7 +12,7 @@ You can find more information about me and my work on my [personal website](http
 #### Recent Projects
 | Repo | Description |
 | --- | --- |
-| [restorekit](https://github.com/fcjr/restorekit) | Reformat an Apple Silicon mac from any platform. |
+| [restorekit](https://github.com/fcjr/restorekit) | Reformat modern Apple products from any platform. |
 | [cubie-a7z-case](https://github.com/fcjr/cubie-a7z-case) | Snap-fit case for the Radxa Cubie A7Z |
 | [PermissionGuide](https://github.com/fcjr/PermissionGuide) | Guided permission setup for macOS apps: opens the right System Settings pane, highlights the list, and gives the user your app's icon to drag in. |
 | [dk-link](https://github.com/fcjr/dk-link) | Use an Azure Kinect DK on a Mac |
